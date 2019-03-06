@@ -1,0 +1,16 @@
+{
+  "name": "beamplayer",
+  "version": "0.0.1",
+  "description": "Play an audio stream from redis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Streampunk Media",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "got": "^9.6.0",
+    "naudiodon": "^2.0.3",
+    "path-to-regexp": "^3.0.0"
+  }
+}
